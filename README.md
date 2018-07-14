@@ -1,1 +1,1 @@
-# Mercredi-Ruby_Basics_1-2
+THP Jour 3 : Methodes et boucles
